@@ -23,7 +23,7 @@ All visualizations happen directly in the terminal using ANSI color codes, with 
 
 ## 🏗️ Prerequisites
 
-- C++ compiler (g++ recommended)
+- C++ compiler
 - Windows OS (for Sleep function, can be adapted for other platforms)
 
 ## 🏃 How to Run
@@ -123,15 +123,6 @@ The application tracks:
 - Color-coded output using ANSI escape sequences
 - Performance tracking with `std::chrono`
 
-## 🔮 Future Enhancements
-
-- Add more algorithms (Dijkstra, A*, Binary Search, etc.)
-- GUI version using SFML/Qt
-- Bar chart animations for sorting
-- Export performance data to CSV
-- Support for directed graphs
-- Customizable animation speeds
-
 ## 🤝 Contributing
 
 Feel free to fork and contribute! Areas for improvement:
@@ -140,10 +131,6 @@ Feel free to fork and contribute! Areas for improvement:
 - Cross-platform compatibility
 - Unit tests
 
-## 📄 License
-
-This project is open-source. Use it for educational purposes.
-
 ---
 
-**Note**: The visualization relies on terminal support for ANSI colors. Ensure your terminal supports ANSI escape sequences for the best experience.
+**Note**: "If you reached here then mark STAR to the repo and your visiting history is successfully stored in my DB".
